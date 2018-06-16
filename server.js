@@ -3,8 +3,6 @@
 const http = require("http");
 const dogs = require("./dognames");
 
-
-
 http.createServer((request, response) => {
   response.writeHead(200, {
     "Content-type": "text/plain"
