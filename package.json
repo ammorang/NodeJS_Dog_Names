@@ -1,0 +1,26 @@
+{
+  "name": "node_dog_names",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammorang/Node_JS_Random_Dog_Names.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammorang/Node_JS_Random_Dog_Names/issues"
+  },
+  "homepage": "https://github.com/ammorang/Node_JS_Random_Dog_Names#readme",
+  "description": ""
+}
